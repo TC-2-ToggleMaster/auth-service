@@ -1,0 +1,9 @@
+.env
+.env.*
+.git
+.gitignore
+*.log
+*.tmp
+*.swp
+*.test
+coverage.out
